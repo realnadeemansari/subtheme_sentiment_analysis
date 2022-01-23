@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-Sentiment_Analysis.docx.pdf
+.pdf
 .Python
 build/
 develop-eggs/
