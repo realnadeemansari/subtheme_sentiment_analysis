@@ -2,11 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-Sentiment_Analysis.docx.pdf
+
 # C extensions
 *.so
 
 # Distribution / packaging
+Sentiment_Analysis.docx.pdf
 .Python
 build/
 develop-eggs/
